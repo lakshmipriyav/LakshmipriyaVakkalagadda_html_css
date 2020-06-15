@@ -1,0 +1,87 @@
+*{
+	margin: 0px;
+	padding:0px;
+	
+}
+
+.button {
+  background-color: #89cff0; /* Green */
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  cursor: pointer;
+  padding: 10px 68px;
+  border-radius: 8px;
+}
+
+.icon {
+  padding: 10px;
+  
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+.limiter {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.container-login{
+  width: 100%;  
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.wrap-login{
+  width: 500px;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.loginform {
+    width: 100%;
+}
+
+.loginform-title {
+  display: block;
+  font-family: Poppins-Bold;
+  font-size: 39px;
+  color: #333333;
+  line-height: 1.2;
+  text-align: center;
+}
+
+.wrap-input{
+  width: 100%;
+  position: relative;
+  border-bottom: 2px solid #d9d9d9;
+}
+
+
+.p-b-49 {padding-bottom: 49px;}
+
+.p-b-54 {padding-bottom: 54px;}
+
+.p-r-55 {padding-right: 55px;}
+
+.p-l-55 {padding-left: 55px;}
+
+.p-t-65 {padding-top: 65px;}
